@@ -12,7 +12,7 @@ body{
 }
 
 #bg-card{
-height: 500px;
+height: 400px;
 width: 250px;
 border: black;
 background-color: blanchedalmond;
@@ -24,7 +24,7 @@ align-items: center;
 }
 
 #primary-card{
-height: 480px;
+height: 380px;
 width: 230px;
 border: black;
 background-color: blanchedalmond;
@@ -34,6 +34,8 @@ display: block;
 }
 
 .img-size {
-    width: 200px;
+    width: 210px;
     height: auto;
+    margin: 10px;
+    border-radius: 10px;
 }
