@@ -1,0 +1,22 @@
+*{
+    margin: none;
+    padding: none;
+}
+
+body{
+    min-height: 100vh;
+    background-color: hsl(217, 54%, 11%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#primary-card{
+height: 500px;
+width: 250px;
+border: black;
+background-color: blanchedalmond;
+border-radius: 10px;
+background-color:  hsl(216, 50%, 16%);
+/* border: rgba(0, 0, 0, 0.354) solid 10px; */
+}
